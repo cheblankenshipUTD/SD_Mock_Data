@@ -1,0 +1,12 @@
+{
+    "statusMessage": "Success",
+    "statusCode": 200,
+    "data": [
+        {"id": 1, "title": "Meet up at Oasis", "date": "2020-07-04T13:33:03.969Z"},
+        {"id": 2, "title": "Meet up at Lady Bird Lake", "date": "2021-07-04T13:33:03.969Z"},
+        {"id": 3, "title": "BBQ hangout!!", "date": "2022-08-04T13:33:03.969Z"},
+        {"id": 4, "title": "Wine party for over 50s", "date": "2023-09-04T13:33:03.969Z"},
+        {"id": 5, "title": "80s music and dance", "date": "2024-01-04T13:33:03.969Z"},
+        {"id": 6, "title": "Cowboys and cowgirls dance floor meetup", "date": "2024-12-04T13:33:03.969Z"}
+    ]
+}
