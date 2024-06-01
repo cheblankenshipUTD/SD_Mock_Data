@@ -4,12 +4,13 @@
     "data": {
         "id": 1,
         "title": "Meet up at Oasis",
+        "description": "Dear gentle man and ladies. This is John and I think this is your last chance to meet your SO. Come over and find your SO! Delete Tinder and meet her in reality... ",
         "date": "2020-07-04T13:33:03.969Z",
         "address": "6550 Comanche Trail Austin TX, 78732",
         "locationName": "The Oasis Lake Travis",
         "link": "https://www.oasis-austin.com/",
         "rsvp": 6,
         "hostId": 1,
-        "hostName": "Bob Chomsky"
+        "hostName": "John Chomsky"
     }
 }
